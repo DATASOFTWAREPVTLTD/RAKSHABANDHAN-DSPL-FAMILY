@@ -11,8 +11,8 @@ $("body").quietflow({
 
 //   Audio Section
 // Audio------------
-var myAudio = document.getElementById("myAudio");
-var myAudioEng = document.getElementById("myAudioEng");
+var myAudio = document.getElementById("Hindi.mp3");
+var myAudioEng = document.getElementById("english.mp3");
 var isPlaying = false;
 
 function togglePlay() {
